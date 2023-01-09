@@ -1,9 +1,5 @@
 program assign4;
 uses sysutils;
-{* Assignment #4
-Roshnica Gurung (rgurung)
-CSCI 314
-*}
 
 type
     day_range = 1..31;
